@@ -7,7 +7,7 @@ This is the first project I did using React. I followed the tutorial made by Rea
 ## Install
 
     $ git clone https://github.com/stefanreusens/Tic-Tac-Toe
-    $ cd Chat-app/
+    $ cd Tic-Tac-Toe/
     $ npm install
     $ npm start
 
