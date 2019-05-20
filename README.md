@@ -6,11 +6,15 @@ I deployed this app on Github. You can [check it out here](https://stefanreusens
 
 ## About this project
 
-This is the first project I did using React. I followed the tutorial made by React. You can see the tutorial on there [website](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial).
+This is the first project I did using React. I followed the tutorial made by React. You can see the tutorial on their [website](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial).
 
 ## Install
 
     $ git clone https://github.com/stefanreusens/Tic-Tac-Toe
     $ cd Chat-app/
     $ npm install
-    $ node index.js
+    $ npm start
+
+---
+
+You can now play the game. Enjoy!
